@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakswareTest", "PeakswareTest.csproj", "{7AE1252A-2DD4-4187-A692-F04F65C0DC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE1252A-2DD4-4187-A692-F04F65C0DC5F}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{7AE1252A-2DD4-4187-A692-F04F65C0DC5F}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{7AE1252A-2DD4-4187-A692-F04F65C0DC5F}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{7AE1252A-2DD4-4187-A692-F04F65C0DC5F}.Release|AnyCPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
